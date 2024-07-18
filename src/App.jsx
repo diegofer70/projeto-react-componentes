@@ -1,5 +1,6 @@
 import ProductCard from "./components/ProductCard"
 import "./Index.css"
+
 function App() {
   return (
     <div>
